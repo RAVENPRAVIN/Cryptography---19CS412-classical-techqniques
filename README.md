@@ -69,12 +69,7 @@ caesarDecrypt(message, key); printf("Decrypted Message: %s", message); return 0;
 
 
 ## OUTPUT:
-OUTPUT:
-Simulating Caesar Cipher
-
-
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
+![alt text](Images/CS1.png)
 
 ## RESULT:
 The program is executed successfully
@@ -276,8 +271,7 @@ return 0;
 }
 
 ## OUTPUT:
-Output:
-Key text: Monarchy Plain text: instruments Cipher text: gatlmzclrqtx
+![alt text](Images/PLAYFAIR.png)
 
 ## RESULT:
 The program is executed successfully
@@ -360,12 +354,7 @@ printf("Decoded message : %s\n", dec); return 0;
 
 
 ## OUTPUT:
-OUTPUT:
-Simulating Hill Cipher
-
-
-Input Message : SecurityLaboratory
-Padded Message : SECURITYLABORATORY Encrypted Message : EACSDKLCAEFQDUKSXU Decrypted Message : SECURITYLABORATORY
+![alt text](Images/Hill.png)
 ## RESULT:
 The program is executed successfully
 
@@ -430,12 +419,7 @@ char message[]= "Thisisasecretmessage.";//Replace withyourmessage
 
 ## OUTPUT:
 OUTPUT :
-
-Simulating Vigenere Cipher
-
-
-Input Message : SecurityLaboratory
-Encrypted Message : NMIYEMKCNIQVVROWXC Decrypted Message : SECURITYLABORATORY
+![alt text](Images/VC.png)
 ## RESULT:
 The program is executed successfully
 
@@ -513,9 +497,6 @@ if(code[i][j]!=0) printf("%c",code[i][j]);
 printf("\n");
 }
 ## OUTPUT:
-OUTPUT:
-Enter a Secret Message wearediscovered
-Enter number of rails 2
-waeicvrderdsoee
+![alt text](Images/RAIL.png)
 ## RESULT:
 The program is executed successfully
